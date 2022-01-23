@@ -1,0 +1,2 @@
+# Extrapolation-Python
+Extrapolation is a type of estimation, beyond the original observation range, of the value of a variable on the basis of its relationship with another variable. It is similar to interpolation, which produces estimates between known observations, but extrapolation is subject to greater uncertainty and a higher risk of producing meaningless results. This program implements Extrapolation Method in python programming language. By entering the point at which you want to calculate, you can find the value. Email me if you have any questions about this code.
